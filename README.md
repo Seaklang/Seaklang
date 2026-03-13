@@ -21,7 +21,7 @@ I focus on building the infrastructure that makes data useful. Whether it's desi
 - 🛠 **My Tech Stack:** Python, SQL, and TypeScript.
 - 📊 **Favorite Tools:** Tableau, PostgreSQL, and Python.
 - 🏗 **Currently Building:** Lura — an AI-driven platform for student learning.
----
+
 
 ### Fun Facts:
 - 🥋 I practice Taekwondo.
@@ -29,7 +29,4 @@ I focus on building the infrastructure that makes data useful. Whether it's desi
 - 🍱 I'm interested in learning new languages.
 - 🛠 Hobbies: martial arts, badminton and music.
 
----
 
-### Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Portfolio Site](https://YOUR_SITE.com)
