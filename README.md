@@ -20,8 +20,7 @@ I focus on building the infrastructure that makes data useful. Whether it's desi
 
 - 🛠 **My Tech Stack:** Python, SQL, and TypeScript.
 - 📊 **Favorite Tools:** Tableau, PostgreSQL, and Python.
-- 🏗 **Currently Building:** Lura — an AI-driven platform for student learning.
-
+- 🏗 **Currently Building:** social media sentiment analysis - Turning social media "noise" into visual insights to see how people really feel about the content they consume.
 
 ### Fun Facts:
 - 🥋 I practice Taekwondo.
