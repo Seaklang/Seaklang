@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Phon%20Seaklang&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Analyst&descAlignY=58&descColor=c3d4f0" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;Turning+raw+data+into+insights+%F0%9F%93%8A;Exploring+Big+Data+%26+Cloud+%E2%98%81%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there+!+%F0%9F%91%8B;Data+Science+Student;Building+Scalable+Data+Pipelines;Turning+Raw+Data+Into+Insights;Willing+to+Learn)](https://git.io/typing-svg)
 
 <!-- Profile views & socials -->
 <p>
@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 About Me
+### About Me
 
 ```python
 class PhonSeaklang:
@@ -45,20 +45,20 @@ print(me.currently())
 
 ---
 
-## 🛠️ Data Science Tech Stack
+## Data Science Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 📊 Data Analysis & Visualization
+### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +68,7 @@ print(me.currently())
 
 ---
 
-### 🗄️ Big Data & Databases
+### Big Data & Databases
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -78,20 +78,20 @@ print(me.currently())
 
 ---
 
-### ☁️ Cloud & MLOps
+### Cloud & MLOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 🛠️ Additional Tools
+### Additional Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEAKLANG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c3d4f0&include_all_commits=true&count_private=true" />
@@ -105,7 +105,7 @@ print(me.currently())
 
 ---
 
-## 📊 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEAKLANG&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f78166&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" />
@@ -118,23 +118,23 @@ print(me.currently())
 
 ---
 
-## 🎯 Skills Proficiency
+### Skills Proficiency
 
 <div align="center">
 
 | Skill | Level | Progress |
 |-------|-------|----------|
-| 🐍 Python | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=3776AB&suffix=%) |
-| 🗄️ SQL / Databases | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=4479A1&suffix=%) |
-| ⚡ Apache Kafka | Fundamental | ![45%](https://progress-bar.xyz/45/?scale=100&title=&width=220&color=58a6ff&suffix=%) |
-| 🐘 Hadoop / Hive | Basic| ![30%](https://progress-bar.xyz/30/?scale=100&title=&width=220&color=66CCFF&suffix=%) |
-| ☁️ Google Cloud | Fundamental | ![35%](https://progress-bar.xyz/35/?scale=100&title=&width=220&color=4285F4&suffix=%) |
+| Python | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=3776AB&suffix=%) |
+| SQL / Databases | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=4479A1&suffix=%) |
+| Apache Kafka | Fundamental | ![45%](https://progress-bar.xyz/45/?scale=100&title=&width=220&color=58a6ff&suffix=%) |
+| Hadoop / Hive | Basic| ![30%](https://progress-bar.xyz/30/?scale=100&title=&width=220&color=66CCFF&suffix=%) |
+| Google Cloud | Fundamental | ![35%](https://progress-bar.xyz/35/?scale=100&title=&width=220&color=4285F4&suffix=%) |
 
 </div>
 
 ---
 
-## ⚡ Quick Info
+### Quick Info
 
 <div align="center">
 
@@ -146,7 +146,7 @@ print(me.currently())
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Seaklang-phon/">
