@@ -94,13 +94,15 @@ print(me.currently())
 ### GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEAKLANG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c3d4f0&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEAKLANG&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=f78166&currStreakLabel=58a6ff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEAKLANG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c3d4f0&include_all_commits=true&count_private=true" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEAKLANG&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=f78166&currStreakLabel=58a6ff" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEAKLANG&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c3d4f0" />
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEAKLANG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c3d4f0" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEAKLANG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c3d4f0" />
 </div>
 
 ---
