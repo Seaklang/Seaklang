@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=seaklang-phon&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/seaklang-phon?style=for-the-badge&color=bc8cff&labelColor=0d1117&label=FOLLOWERS" />
 </p>
 
 <!-- Availability badge -->
