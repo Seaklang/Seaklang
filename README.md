@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Phon%20Seaklang&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Analyst&descAlignY=58&descColor=c3d4f0" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;Crafting+clean+%26+modern+UIs+%F0%9F%8E%A8;Exploring+Big+Data+%26+Cloud+%E2%98%81%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;Turning+raw+data+into+insights+%F0%9F%93%8A;Exploring+Big+Data+%26+Cloud+%E2%98%81%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <!-- Profile views & socials -->
 <p>
@@ -12,7 +12,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=seaklang-phon&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/seaklang-phon?style=for-the-badge&color=bc8cff&labelColor=0d1117&label=FOLLOWERS" />
 </p>
+
+<!-- Availability badge -->
+<img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-Open%20to%20Opportunities-3fb950?style=flat-square" />
 
 </div>
 
@@ -25,15 +29,15 @@ class PhonSeaklang:
     def __init__(self):
         self.name       = "Phon Seaklang"
         self.location   = "Phnom Penh, Cambodia 🇰🇭"
-        self.roles      = ["Data Engineer", "Full-Stack Developer"]
+        self.roles      = ["Data Engineer", "Data Analyst"]
         self.languages  = ["Python", "JavaScript", "C", "C++", "SQL"]
-        self.interests  = ["Big Data", "Cloud Architecture", "Data Pipelines", "UI/UX"]
+        self.interests  = ["Big Data", "Cloud Architecture", "Data Pipelines", "Data Visualization"]
 
     def currently(self):
         return {
             "building":  "Scalable data pipelines with Kafka & Hadoop",
             "learning":  "Advanced GCP, dbt & data lakehouse patterns",
-            "ask_me":    "Data engineering, Python, SQL, full-stack dev",
+            "ask_me":    "Data engineering, Python, SQL, analytics",
             "fun_fact":  "I treat every pipeline bug like a puzzle 🧩"
         }
 
@@ -45,12 +49,14 @@ print(me.currently())
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Engineering
+### 📊 Data Engineering & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,9 +73,95 @@ print(me.currently())
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=seaklang-phon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c3d4f0&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seaklang-phon&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=f78166&currStreakLabel=58a6ff" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaklang-phon&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c3d4f0" />
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaklang-phon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c3d4f0" />
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seaklang-phon&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f78166&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seaklang-phon&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+
+</details>
+
+---
+
+## 🎯 Skills Proficiency
+
+<div align="center">
+
+| Skill | Level | Progress |
+|-------|-------|----------|
+| 🐍 Python | Advanced | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=220&color=3776AB&suffix=%) |
+| 🗄️ SQL / Databases | Advanced | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=220&color=4479A1&suffix=%) |
+| ⚡ Apache Kafka | Intermediate | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=220&color=58a6ff&suffix=%) |
+| 🐘 Hadoop / Hive | Intermediate | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=220&color=66CCFF&suffix=%) |
+| ☁️ Google Cloud | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=4285F4&suffix=%) |
+| 🌐 JavaScript | Intermediate | ![72%](https://progress-bar.xyz/72/?scale=100&title=&width=220&color=F7DF1E&suffix=%) |
+
+</div>
+
+---
+
+## ⚡ Quick Info
+
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Analytics-58a6ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/📍%20Lives-Phnom%20Penh%2C%20Cambodia-3fb950?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/💬%20Speaks-5%20coding%20languages-bc8cff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/🟢%20Status-Open%20to%20Work-f78166?style=flat-square&labelColor=0d1117)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/Seaklang-phon/">
+    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Without%20data%2C%20you%27re%20just%20another%20person%20with%20an%20opinion&author=W.%20Edwards%20Deming" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=100&section=footer" />
+</div>
