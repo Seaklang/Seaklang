@@ -30,13 +30,12 @@ class PhonSeaklang:
         self.name       = "Phon Seaklang"
         self.location   = "Phnom Penh, Cambodia 🇰🇭"
         self.roles      = ["Data Engineer", "Data Analyst"]
-        self.languages  = ["Python", "JavaScript", "C", "C++", "SQL"]
+        self.languages  = ["Python", "SQL"]
         self.interests  = ["Big Data", "Cloud Architecture", "Data Pipelines", "Data Visualization"]
 
     def currently(self):
         return {
             "building":  "Scalable data pipelines with Kafka & Hadoop",
-            "learning":  "Advanced GCP, dbt & data lakehouse patterns",
             "ask_me":    "Data engineering, Python, SQL, analytics",
             "fun_fact":  "I treat every pipeline bug like a puzzle 🧩"
         }
@@ -61,7 +60,6 @@ print(me.currently())
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -75,17 +73,13 @@ print(me.currently())
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEAKLANG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c3d4f0&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seaklang-phon&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=f78166&currStreakLabel=58a6ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEAKLANG&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=f78166&currStreakLabel=58a6ff" />
 </div>
 
 <div align="center">
@@ -103,14 +97,6 @@ print(me.currently())
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seaklang-phon&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
 
 </details>
 
@@ -122,12 +108,11 @@ print(me.currently())
 
 | Skill | Level | Progress |
 |-------|-------|----------|
-| 🐍 Python | Advanced | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=220&color=3776AB&suffix=%) |
-| 🗄️ SQL / Databases | Advanced | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=220&color=4479A1&suffix=%) |
-| ⚡ Apache Kafka | Intermediate | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=220&color=58a6ff&suffix=%) |
-| 🐘 Hadoop / Hive | Intermediate | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=220&color=66CCFF&suffix=%) |
-| ☁️ Google Cloud | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=4285F4&suffix=%) |
-| 🌐 JavaScript | Intermediate | ![72%](https://progress-bar.xyz/72/?scale=100&title=&width=220&color=F7DF1E&suffix=%) |
+| 🐍 Python | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=3776AB&suffix=%) |
+| 🗄️ SQL / Databases | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=4479A1&suffix=%) |
+| ⚡ Apache Kafka | Fundamental | ![45%](https://progress-bar.xyz/45/?scale=100&title=&width=220&color=58a6ff&suffix=%) |
+| 🐘 Hadoop / Hive | Basic| ![30%](https://progress-bar.xyz/30/?scale=100&title=&width=220&color=66CCFF&suffix=%) |
+| ☁️ Google Cloud | Fundamental | ![35%](https://progress-bar.xyz/35/?scale=100&title=&width=220&color=4285F4&suffix=%) |
 
 </div>
 
@@ -139,7 +124,6 @@ print(me.currently())
 
 ![](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Analytics-58a6ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/📍%20Lives-Phnom%20Penh%2C%20Cambodia-3fb950?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/💬%20Speaks-5%20coding%20languages-bc8cff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/🟢%20Status-Open%20to%20Work-f78166?style=flat-square&labelColor=0d1117)
 
 </div>
