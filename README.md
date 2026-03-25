@@ -148,7 +148,7 @@ print(me.currently())
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Seaklang-phon/">
