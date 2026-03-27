@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/seaklang-phon/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=seaklang-phon&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
 
 <!-- Availability badge -->
