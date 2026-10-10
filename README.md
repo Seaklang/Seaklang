@@ -14,7 +14,6 @@
 </p>
 
 <!-- Availability badge -->
-<img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-Open%20to%20Opportunities-3fb950?style=flat-square" />
 
 </div>
 
