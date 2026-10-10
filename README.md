@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Phon%20Seaklang&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Analyst&descAlignY=58&descColor=c3d4f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Phon%20Seaklang&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descColor=c3d4f0" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there+!+%F0%9F%91%8B;Data+Science+Student;Building+Scalable+Data+Pipelines;Turning+Raw+Data+Into+Insights;Willing+to+Learn)](https://git.io/typing-svg)
